@@ -1,4 +1,4 @@
-# Fake-new-classification
+# Fake-news-classification
 
 ## Overview
 This project aims to classify news articles as **REAL** or **FAKE** using Natural Language Processing (NLP) and Machine Learning. The pipeline includes text preprocessing, feature extraction, model training, evaluation, and interpretability.
